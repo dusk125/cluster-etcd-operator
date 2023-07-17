@@ -1,0 +1,4 @@
+apiVersion: etcdbackups.operator.openshift.io/v1alpha1
+kind: EtcdBackup
+spec:
+  pvcName: "template"
